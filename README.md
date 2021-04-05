@@ -15,12 +15,16 @@
 
 
 
-## [Instagram me](http://instagram.com/nowfemi)
+## [Instagram](http://instagram.com/nowfemi)
 
 
 
-## [Twitter me](http://twitter.com/nowfemi)
+## [Twitter](http://twitter.com/nowfemi)
 
 
 
 ## [EVERYWHERE](http://nowfemi.github.io)
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
