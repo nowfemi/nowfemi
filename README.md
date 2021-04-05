@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 
@@ -11,3 +11,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## [Facebook](http://facebook.com/nowfe.mi)
+
+
+
+## [Instagram me](http://instagram.com/nowfemi)
+
+
+
+## [Twitter me](http://twitter.com/nowfemi)
+
+
+
+## [EVERYWHERE](http://nowfemi.github.io)
