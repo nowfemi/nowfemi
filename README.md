@@ -12,8 +12,8 @@
 - ⚡ Fun fact: ...
 
 ## [Facebook](http://facebook.com/nowfe.mi)
-(https://www.dropbox.com/s/am8z2qfr8vgacnk/IMG_20210116_174754_665.jpg?dl=0)
-
+![Facebook pic](https://www.dropbox.com/s/am8z2qfr8vgacnk/IMG_20210116_174754_665.jpg?dl=0)
+Format: ![Alt Text](url)
 
 
 ## [Instagram](http://instagram.com/nowfemi)
