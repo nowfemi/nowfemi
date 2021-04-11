@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with app
 - 💬 Ask me about webcode
-- 📫 How to reach me: <a href="tell:+2348104156984">Call me</a> or <a href="mailto: nowfemi@gmail.com>mail me</a> or join our Whatsapp group
+- 📫 How to reach me: <a href="tel:+2348104156984">Call</a> or <a href="mailto: nowfemi@gmail.com>mail me</a>
 - 😄 Pronouns: @nowfemi
 - ⚡ Fun fact: am @kcubeterm follows me everywhere
 
