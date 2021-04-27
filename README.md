@@ -2,11 +2,11 @@
 
 
 
-## SELFTAUGHT with high HOPS(high oriented programming skills)
+### SELFTAUGHT with high HOPS(high oriented programming skills)
 
 
 
-## i based on python and web; do u mind Coding with me
+### i based on python and web; do u mind Coding with me
 
 
 
