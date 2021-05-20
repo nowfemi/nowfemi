@@ -10,11 +10,4 @@
 
 
 
-### I don't mind if you host me!
-
-
-
-
-
-
-![alt text](https://dl.dropbox.com/s/am8z2qfr8vgacnk/IMG_20210116_174754_l]
+### I don't mind if you host me
